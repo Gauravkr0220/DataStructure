@@ -8,7 +8,13 @@
         "string": "cpp",
         "vector": "cpp",
         "valarray": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "utility": "cpp",
+        "cmath": "cpp",
+        "format": "cpp",
+        "xstring": "cpp",
+        "initializer_list": "cpp",
+        "xutility": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }

@@ -1,1 +1,1 @@
-   
+      cout<<pow(b,int(log(a)/log(b)))<<" "<<a<<endl;
