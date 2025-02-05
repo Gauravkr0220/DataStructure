@@ -42,7 +42,7 @@ vector<pair<int,int>>g[100100];
 
 void solve(){
     int n,m;
-    cin>>n>>M;
+    cin>>n>>m;
     int a,b,c;
     UnionFind uf(n);
     vector<pair<int,pair<int,int>>> edgelist;
